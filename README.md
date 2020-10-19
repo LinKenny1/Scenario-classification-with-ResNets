@@ -1,4 +1,5 @@
 # Scenario classification using ResNets
+![Example screenshot](https://miro.medium.com/max/700/0*E6o0KqW2B3_7QQcw.jpg)
 > This project was made as part of [Deep Learning with PyTorch: Zero to GANs course](https://jovian.ml/learn/deep-learning-with-pytorch-zero-to-gans). 
 This is an implemetation of ResNets using Pytorch for image classification of varios escenarios. For a detailed breakdown of the development, the code and the results read my [Medium blogpost](https://medium.com/jovianml/using-resnet-for-image-classification-4b3c42f2a27e). You can also interact with the project directly on [Jovian.ml](https://jovian.ml/linkenny13/project)
 
@@ -17,14 +18,12 @@ There are many ways of tackling an image classification problem using ML, even f
 ## Screenshots
 ![Example screenshot](./scenarios.png)
 
-<iframe src="https://jovian.ml/embed?url=https://jovian.ml/linkenny13/project/v/5&cellId=20" title="Jovian Viewer" height="760" width="800" frameborder="0" scrolling="auto"></iframe>
-
 ## Setup
 Necessary libraries:
-    *Numpy*
-    *Pandas*
-    *Matplotlib*
-    *Pytorch*
+    *Numpy*,
+    *Pandas*,
+    *Matplotlib*,
+    *Pytorch*.
 
 To run it either download the dataset and set the path on the notebook or run it directly on Kaggle importing the dataset to the project directory.
 
